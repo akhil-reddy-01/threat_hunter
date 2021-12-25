@@ -3,7 +3,7 @@
 ## Introduction
 
 - *Name*: Danger detection with ML
-- *Repo. created by*: [Akhil Reddy](https://www.linkedin.com/in/akhil-reddy-karupakula//).
+- *Repo. created by*: [Akhil Reddy](https://www.linkedin.com/in/akhil-reddy-karupakula/).
 - *Tools used*: Python, OpenCV, SMTPLib, YOLO V3
 
 ________________________________________
