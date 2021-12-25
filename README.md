@@ -30,7 +30,7 @@ ________________________________________
     - `pip install secure-smtplib`
 - After installing the  required libraries, you might want to restrat the IDE to prevent any errors.
 - Then you also need the yolov3.weights file to run this program.
-- Since, GitHub has file size restrictions, we need to download it from this [Link]()
+- Since, GitHub has file size restrictions, we need to download it from this [Link](https://drive.google.com/file/d/1k8e4mMwSDQUdua7nDysgVxWn2ZigZjKJ/view?usp=sharing)
 - After downloading the file you need to place it in the same directory as *With_mail.py*.
 - Now, change the `mailfrom` variable in 26th line of *With_mail.py*
 - Enter your password in `gmailpass` variable in 27th line of *With_mail.py*.
